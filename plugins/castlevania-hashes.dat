@@ -1,0 +1,6 @@
+use as has format reference
+0FE255649359ECE8CB64B6F24ACAF09F17AF746C mm1nes -- Mega Man (E) [!].nes
+
+going to have to get each file
+from cli in directory run openssl sha1 <filename>
+
