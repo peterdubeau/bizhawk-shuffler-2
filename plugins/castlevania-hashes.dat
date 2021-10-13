@@ -1,5 +1,7 @@
 use as has format reference
 0FE255649359ECE8CB64B6F24ACAF09F17AF746C mm1nes -- Mega Man (E) [!].nes
+0e79f2e44ef6a2b5cd3aa9966b58767885b29f1a cv2 -- CV2 redaction
+a20c44f302fb2f1b7adffa6b619e3e1cae7b546  cv1 -- Castlevania1
 
 going to have to get each file
 from cli in directory run openssl sha1 <filename>

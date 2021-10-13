@@ -16,9 +16,8 @@ plugin.description =
 
 	Supports:
 	- Castlevania 1
-  - Castlevania 3 
+  - Castlevania 2
   - Castlevania 3
-  
 ]]
 
 local prevdata = {}
